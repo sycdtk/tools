@@ -1,4 +1,4 @@
-package com.wolffy;
+package com.wolffy.test;
 
 public class test {
 
